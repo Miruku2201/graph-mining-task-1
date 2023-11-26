@@ -357,6 +357,9 @@ INPUT content\section_content\frequent_subgraph_mining.tex
 INPUT .\content\section_content\graph_generator.tex
 INPUT .\content\section_content\graph_generator.tex
 INPUT content\section_content\graph_generator.tex
+INPUT .\ref\ref.tex
+INPUT .\ref\ref.tex
+INPUT ref\ref.tex
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
